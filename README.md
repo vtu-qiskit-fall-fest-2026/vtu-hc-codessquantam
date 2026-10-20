@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **CodessQuantam** · Team ID `VTU-QFF-HC-0090` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#CodessQuantam)
+[⬆ Back to Top](#codessquantam)
 
 </div>
